@@ -1,3 +1,7 @@
+## 1.0.9
+* Fix translation turkey country in PT
+* Fix super parameters to build
+
 ## 1.0.8
 * Fix translation el
 * Update readme 
